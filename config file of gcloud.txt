@@ -1,0 +1,8 @@
+<script src="https://www.gstatic.com/firebasejs/8.0/firebase.js"></script>
+<script>
+  var config = {
+    apiKey: "AIzaSyBAZ8DKbuLYA71MH6VxFJZzPAV6XIxI2kY",
+    authDomain: "summer-gadget-404207.firebaseapp.com",
+  };
+  firebase.initializeApp(config);
+</script>
